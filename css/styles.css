@@ -209,11 +209,11 @@ li {
 .skills__list-js::after {
   content: " ";
   background: #0f5daa;
-  right: 45%;
+  right: 67%;
   top: 77%;
   position: absolute;
-  width: 293px;
-  height: 18px;
+  width: 274px;
+  height: 17px;
 }
 .skills__list-html::before {
   content: " ";
@@ -231,7 +231,7 @@ li {
   top: 77%;
   position: absolute;
   width: 310px;
-  height: 18px;
+  height: 17px;
 }
 .skills__list-css::before {
   content: " ";
@@ -281,11 +281,11 @@ li {
 .skills__list-react::after {
   content: " ";
   background: #f5e200;
-  right: 207%;
+  right: 301%;
   top: 77%;
   position: absolute;
-  width: 154px;
-  height: 18px;
+  width: 72px;
+  height: 17px;
 }
 .projects .container {
   flex-direction: column;
